@@ -1,0 +1,28 @@
+{
+  "productList": [
+    {
+      "productName": "Novo",
+      "category": "Fruits",
+      "price": "1000",
+      "id": 3
+    },
+    {
+      "productName": "123",
+      "category": "Vegetables",
+      "price": "123",
+      "id": 5
+    },
+    {
+      "productName": "Novo",
+      "category": "Fruits",
+      "price": "1000",
+      "id": 3
+    },
+    {
+      "productName": "123",
+      "category": "Vegetables",
+      "price": "123",
+      "id": 5
+    }
+  ]
+}
